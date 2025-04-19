@@ -1,2 +1,9 @@
 # Clustering-for-Customization-Profiling-Learners-to-Optimize-Educational-Impact
-This project focuses on clustering learners based on attributes such as job roles, companies, and experience to create personalized learning paths. By profiling both learners and their professional backgrounds, the goal is to deliver tailored content, improve engagement, and provide targeted mentorship for a more impactful learning experience.
+📘 Project: Learner & Company Profiling for Personalized Learning
+This project leverages clustering techniques to group learners based on their job roles, company profiles, and professional experience. The aim is to personalize learning experiences by tailoring content recommendations, learning paths, and mentorship opportunities. It also includes company-level profiling to uncover patterns that enhance learning strategies based on background and preferences.
+
+🔍 Key Features
+- Learner profiling using clustering algorithms
+- Company-wise grouping to identify learning needs
+- Tailored recommendations for content and mentorship
+- Data-driven personalization for improved engagement
